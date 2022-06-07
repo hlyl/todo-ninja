@@ -55,7 +55,7 @@ export default {
         to: "/AdminView",
       },
     ],
-    ex4: ["red"],
+    ex4: ["red", "blue"],
   }),
 };
 </script>
