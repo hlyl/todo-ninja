@@ -1,0 +1,338 @@
+<template>
+  <v-container>
+    <html>
+      <head>
+        <meta
+          http-equiv="content-type"
+          content="text/html; charset=windows-1252"
+        />
+        <title>ChordPro song</title>
+      </head>
+      <body bgcolor="#FFFFFF">
+        &nbsp;
+
+        <h1>You've got a friend</h1>
+        <h2>Carol King</h2>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+            </tr>
+            <tr>
+              <td class="lyrics">When&nbsp;you're&nbsp;</td>
+              <td class="lyrics">&nbsp;down&nbsp;and&nbsp;</td>
+              <td class="lyrics">&nbsp;troubled&nbsp;and&nbsp;you&nbsp;</td>
+              <td class="lyrics">&nbsp;need&nbsp;some&nbsp;</td>
+              <td class="lyrics">&nbsp;lovin'&nbsp;</td>
+              <td class="lyrics">&nbsp;care&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">Am</td>
+              <td class="chords">D</td>
+              <td class="chords">G</td>
+            </tr>
+            <tr>
+              <td class="lyrics">And&nbsp;</td>
+              <td class="lyrics">&nbsp;nothing,&nbsp;</td>
+              <td class="lyrics">&nbsp;nothing&nbsp;is&nbsp;going&nbsp;</td>
+              <td class="lyrics">&nbsp;right&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">F#m</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+            </tr>
+            <tr>
+              <td class="lyrics">
+                &nbsp;Close&nbsp;your&nbsp;eyes&nbsp;and&nbsp;
+              </td>
+              <td class="lyrics">&nbsp;think&nbsp;of&nbsp;me&nbsp;and&nbsp;</td>
+              <td class="lyrics">&nbsp;soon&nbsp;I&nbsp;</td>
+              <td class="lyrics">&nbsp;will&nbsp;be&nbsp;</td>
+              <td class="lyrics">&nbsp;there&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">Am</td>
+              <td class="chords">D</td>
+              <td class="chords">Am</td>
+            </tr>
+            <tr>
+              <td class="lyrics">To&nbsp;</td>
+              <td class="lyrics">&nbsp;brighten&nbsp;up&nbsp;</td>
+              <td class="lyrics">&nbsp;even&nbsp;your&nbsp;darkest&nbsp;</td>
+              <td class="lyrics">&nbsp;nights&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="lyrics">&nbsp;</div>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords_chorus"></td>
+              <td class="chords_chorus">G</td>
+              <td class="chords_chorus">C</td>
+            </tr>
+            <tr>
+              <td class="lyrics_chorus">You&nbsp;just&nbsp;</td>
+              <td class="lyrics_chorus">
+                &nbsp;call&nbsp;out&nbsp;my&nbsp;name,&nbsp;and&nbsp;you&nbsp;
+              </td>
+              <td class="lyrics_chorus">
+                &nbsp;know,&nbsp;wherever&nbsp;I&nbsp;am,&nbsp;
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords_chorus"></td>
+              <td class="chords_chorus">G</td>
+              <td class="chords_chorus">Am</td>
+              <td class="chords_chorus">D7</td>
+            </tr>
+            <tr>
+              <td class="lyrics_chorus">I&nbsp;come&nbsp;</td>
+              <td class="lyrics_chorus">
+                &nbsp;running&nbsp;to&nbsp;see&nbsp;you&nbsp;
+              </td>
+              <td class="lyrics_chorus">&nbsp;again&nbsp;</td>
+              <td class="lyrics_chorus">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords_chorus">G</td>
+              <td class="chords_chorus">G7</td>
+              <td class="chords_chorus">C</td>
+              <td class="chords_chorus">Am</td>
+            </tr>
+            <tr>
+              <td class="lyrics_chorus">
+                &nbsp;Winter&nbsp;spring&nbsp;summer&nbsp;or&nbsp;
+              </td>
+              <td class="lyrics_chorus">&nbsp;fall&nbsp;</td>
+              <td class="lyrics_chorus">
+                &nbsp;all&nbsp;you&nbsp;got&nbsp;to&nbsp;do&nbsp;is&nbsp;
+              </td>
+              <td class="lyrics_chorus">&nbsp;call&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords_chorus"></td>
+              <td class="chords_chorus">C</td>
+              <td class="chords_chorus">Am</td>
+            </tr>
+            <tr>
+              <td class="lyrics_chorus">And&nbsp;I'll&nbsp;</td>
+              <td class="lyrics_chorus">
+                &nbsp;be&nbsp;there,&nbsp;yes&nbsp;I&nbsp;
+              </td>
+              <td class="lyrics_chorus">&nbsp;will&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="lyrics">&nbsp;</div>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">A</td>
+              <td class="chords">G</td>
+            </tr>
+            <tr>
+              <td class="lyrics">&nbsp;You've&nbsp;got&nbsp;a&nbsp;</td>
+              <td class="lyrics">&nbsp;friend&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="lyrics">&nbsp;</div>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+            </tr>
+            <tr>
+              <td class="lyrics">If&nbsp;the&nbsp;</td>
+              <td class="lyrics">&nbsp;sky&nbsp;a</td>
+              <td class="lyrics">bove&nbsp;you&nbsp;grows&nbsp;</td>
+              <td class="lyrics">&nbsp;dark&nbsp;and&nbsp;</td>
+              <td class="lyrics">&nbsp;full&nbsp;of&nbsp;</td>
+              <td class="lyrics">&nbsp;clouds,&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">Am</td>
+              <td class="chords">D</td>
+              <td class="chords">G</td>
+            </tr>
+            <tr>
+              <td class="lyrics">and&nbsp;</td>
+              <td class="lyrics">&nbsp;that&nbsp;old&nbsp;north&nbsp;</td>
+              <td class="lyrics">&nbsp;wind&nbsp;begins&nbsp;to&nbsp;</td>
+              <td class="lyrics">&nbsp;blow&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">F#m</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+              <td class="chords">B7</td>
+              <td class="chords">Em</td>
+            </tr>
+            <tr>
+              <td class="lyrics">&nbsp;Keep&nbsp;your&nbsp;head&nbsp;</td>
+              <td class="lyrics">&nbsp;togheter,&nbsp;and&nbsp;</td>
+              <td class="lyrics">&nbsp;call&nbsp;my&nbsp;</td>
+              <td class="lyrics">&nbsp;name&nbsp;out&nbsp;</td>
+              <td class="lyrics">&nbsp;loud&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">Am</td>
+              <td class="chords">D</td>
+              <td class="chords">Am</td>
+            </tr>
+            <tr>
+              <td class="lyrics">
+                &nbsp;Soon&nbsp;you'll&nbsp;hear&nbsp;me&nbsp;
+              </td>
+              <td class="lyrics">&nbsp;knocking&nbsp;at&nbsp;your&nbsp;</td>
+              <td class="lyrics">&nbsp;door&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="comment">chorus</p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">F</td>
+              <td class="chords">C</td>
+            </tr>
+            <tr>
+              <td class="lyrics">
+                &nbsp;Now&nbsp;ain't&nbsp;it&nbsp;good&nbsp;to&nbsp;know&nbsp;that&nbsp;
+              </td>
+              <td class="lyrics">
+                &nbsp;you've&nbsp;got&nbsp;a&nbsp;friend&nbsp;
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">G</td>
+              <td class="chords">G7</td>
+            </tr>
+            <tr>
+              <td class="lyrics">When&nbsp;</td>
+              <td class="lyrics">
+                &nbsp;people&nbsp;can&nbsp;be&nbsp;so&nbsp;
+              </td>
+              <td class="lyrics">&nbsp;cold&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">C</td>
+              <td class="chords">Fm</td>
+              <td class="chords">Em</td>
+              <td class="chords">Am7</td>
+            </tr>
+            <tr>
+              <td class="lyrics">The'll&nbsp;</td>
+              <td class="lyrics">
+                &nbsp;hurt&nbsp;you,&nbsp;yes&nbsp;and&nbsp;
+              </td>
+              <td class="lyrics">&nbsp;desert&nbsp;you&nbsp;and&nbsp;</td>
+              <td class="lyrics">
+                &nbsp;take&nbsp;your&nbsp;soul&nbsp;if&nbsp;you&nbsp;
+              </td>
+              <td class="lyrics">&nbsp;let&nbsp;them&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords"></td>
+              <td class="chords">A7</td>
+              <td class="chords">D</td>
+            </tr>
+            <tr>
+              <td class="lyrics">But&nbsp;</td>
+              <td class="lyrics">&nbsp;don't&nbsp;you&nbsp;let&nbsp;</td>
+              <td class="lyrics">&nbsp;them&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="comment">chorus</p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td class="chords">A</td>
+              <td class="chords">G</td>
+              <td class="chords">D</td>
+              <td class="chords">Em</td>
+            </tr>
+            <tr>
+              <td class="lyrics">&nbsp;You've&nbsp;got&nbsp;a&nbsp;</td>
+              <td class="lyrics">&nbsp;friend.&nbsp;</td>
+              <td class="lyrics">&nbsp;You've&nbsp;got&nbsp;a&nbsp;</td>
+              <td class="lyrics">&nbsp;friend&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+      </body>
+    </html>
+  </v-container>
+</template>
+
+<script>
+export default {};
+</script>

@@ -1,22 +1,30 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import BandPi from '../views/BandPi.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeView
+    name: 'BandPi',
+    component: BandPi
   },
   {
-    path: '/about',
-    name: 'about',
+    path: '/songview',
+    name: 'SongView',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    component: () => import(/* webpackChunkName: "songview" */ '../views/SongView.vue')
+  },
+  {
+    path: '/AdminView',
+    name: 'AdminView',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "AdminView" */ '../views/AdminView.vue')
   }
 ]
 
